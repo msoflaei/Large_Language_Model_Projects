@@ -11,15 +11,15 @@ This repository contains various projects and experiments related to Large Langu
 - [Usage](#usage)
 
 ## Projects
-1. **[Q&A Chatbot]**  
+1. **Q&A Chatbot**  
    - **Description**: An OpenAI-powered QA chatbot delivering precise and context-aware responses.
    - **Model**: gpt-3.5-turbo
 
-2. **[Blog Generation]**  
+2. **Blog Generation**  
    - **Description**: An app using Llama 2 to effortlessly generate engaging blog content with customizable topics and styles.
    - **Model**: llama-2-7b-chat.ggmlv3.q8_0.bin
   
-3. **[Text Summarization]**  
+3. **Text Summarization**  
    - **Description**: Using Langchain for efficient and accurate summarization of large texts into concise, informative summaries.
    - **Model**: gpt-3.5-turbo
 
