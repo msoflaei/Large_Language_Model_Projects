@@ -11,9 +11,9 @@ This repository contains various projects and experiments related to Large Langu
 - [Usage](#usage)
 
 ## Projects
-1. **[Project Name]**  
-   - **Description**: 
-   - **Model**: 
+1. **[Q&A Chatbot]**  
+   - **Description**: An OpenAI-powered QA chatbot delivering precise and context-aware responses.
+   - **Model**: gpt-3.5-turbo
 
 2. **[Project Name]**  
    - **Description**: 
