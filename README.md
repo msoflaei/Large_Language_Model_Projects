@@ -15,9 +15,9 @@ This repository contains various projects and experiments related to Large Langu
    - **Description**: An OpenAI-powered QA chatbot delivering precise and context-aware responses.
    - **Model**: gpt-3.5-turbo
 
-2. **[Project Name]**  
-   - **Description**: 
-   - **Model**: 
+2. **[Blog Generation]**  
+   - **Description**: An OpenAI-powered QA chatbot delivering precise and context-aware responses.
+   - **Model**: llama-2-7b-chat.ggmlv3.q8_0.bin
 
 ## Technologies Used
 - **Languages**: Python
