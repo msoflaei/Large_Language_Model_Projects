@@ -36,6 +36,10 @@ This repository contains various projects and experiments related to Large Langu
   - Hugging Face Hub
   - Python-Dotenv
   - Tiktoken
+  - Unstructured
+  - Pdf2image
+  - Pdfminer
+  - PyPDF2
   - Pandas
   - NumPy
 - **Tools**: Visual Studio Code, Jupyter Notebooks, Git
