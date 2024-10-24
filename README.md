@@ -1,7 +1,7 @@
 # Large Language Models (LLMs) Projects
 
 ## Overview
-This repository contains various projects and experiments related to Large Language Models (LLMs). These projects focus on exploring, understanding, and implementing LLMs for natural language processing (NLP) tasks such as text generation, sentiment analysis, summarization, and more.
+This repository contains various projects and experiments related to Large Language Models (LLMs). These projects focus on exploring, understanding, and implementing LLMs for natural language processing (NLP) tasks such as text generation, summarization, and more.
 
 ## Table of Contents
 - [Overview](#overview)
