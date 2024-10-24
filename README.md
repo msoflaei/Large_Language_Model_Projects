@@ -44,8 +44,8 @@ This repository contains various projects and experiments related to Large Langu
 To clone this repository and set up the environment:
 
 ```bash
-git clone https://github.com/msoflaei/Large_Language_Model_Projects.git
-cd Large_Language_Model_Projects
+git clone https://github.com/msoflaei/Large_Language_Models_Projects.git
+cd Large_Language_Models_Projects
 ```
 
 ## Install required libraries:
@@ -54,10 +54,10 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-After cloning the repo and installing dependencies, you can explore each project by running the provided Jupyter Notebooks.
+After cloning the repo and installing dependencies, you can explore each project by running the provided Jupyter Notebooks or Python scripts.
 
 1. Navigate to the project directory.
-2. Open the corresponding Jupyter notebook.
-3. Run the cells to see the LLM in action.
+2. Open the corresponding Jupyter notebook or Python script.
+3. Execute the cells in the notebook or run the script to see the LLM in action.
 
 
